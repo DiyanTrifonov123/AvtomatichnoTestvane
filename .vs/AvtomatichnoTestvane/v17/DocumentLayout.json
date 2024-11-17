@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Programming\\AvtomatichnoTestvane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F981361-08F6-4D96-8636-0D7DF8172E85}|TestProjectIsPositiveOrNegative\\TestProjectIsPositiveOrNegative.csproj|f:\\programming\\avtomatichnotestvane\\testprojectispositiveornegative\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F981361-08F6-4D96-8636-0D7DF8172E85}|TestProjectIsPositiveOrNegative\\TestProjectIsPositiveOrNegative.csproj|solutionrelative:testprojectispositiveornegative\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36492D7-7442-4527-B614-D642E4EC81A9}|PolojitelnoOtricatelnoChislo\\PolojitelnoOtricatelnoChislo.csproj|f:\\programming\\avtomatichnotestvane\\polojitelnootricatelnochislo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36492D7-7442-4527-B614-D642E4EC81A9}|PolojitelnoOtricatelnoChislo\\PolojitelnoOtricatelnoChislo.csproj|solutionrelative:polojitelnootricatelnochislo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36492D7-7442-4527-B614-D642E4EC81A9}|PolojitelnoOtricatelnoChislo\\PolojitelnoOtricatelnoChislo.csproj|f:\\programming\\avtomatichnotestvane\\polojitelnootricatelnochislo\\positivenegative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36492D7-7442-4527-B614-D642E4EC81A9}|PolojitelnoOtricatelnoChislo\\PolojitelnoOtricatelnoChislo.csproj|solutionrelative:polojitelnootricatelnochislo\\positivenegative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "F:\\Programming\\AvtomatichnoTestvane\\TestProjectIsPositiveOrNegative\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProjectIsPositiveOrNegative\\UnitTest1.cs",
+              "ToolTip": "F:\\Programming\\AvtomatichnoTestvane\\TestProjectIsPositiveOrNegative\\UnitTest1.cs",
+              "RelativeToolTip": "TestProjectIsPositiveOrNegative\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:55:59.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PositiveNegative.cs",
+              "DocumentMoniker": "F:\\Programming\\AvtomatichnoTestvane\\PolojitelnoOtricatelnoChislo\\PositiveNegative.cs",
+              "RelativeDocumentMoniker": "PolojitelnoOtricatelnoChislo\\PositiveNegative.cs",
+              "ToolTip": "F:\\Programming\\AvtomatichnoTestvane\\PolojitelnoOtricatelnoChislo\\PositiveNegative.cs",
+              "RelativeToolTip": "PolojitelnoOtricatelnoChislo\\PositiveNegative.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:50:48.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Programming\\AvtomatichnoTestvane\\PolojitelnoOtricatelnoChislo\\Program.cs",
+              "RelativeDocumentMoniker": "PolojitelnoOtricatelnoChislo\\Program.cs",
+              "ToolTip": "F:\\Programming\\AvtomatichnoTestvane\\PolojitelnoOtricatelnoChislo\\Program.cs",
+              "RelativeToolTip": "PolojitelnoOtricatelnoChislo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:46:06.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

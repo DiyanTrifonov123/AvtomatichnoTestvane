@@ -1,0 +1,14 @@
+F:\Programming\AvtomatichnoTestvane\PolojitelnoOtricatelnoChislo\bin\Debug\net8.0\PolojitelnoOtricatelnoChislo.exe
+F:\Programming\AvtomatichnoTestvane\PolojitelnoOtricatelnoChislo\bin\Debug\net8.0\PolojitelnoOtricatelnoChislo.deps.json
+F:\Programming\AvtomatichnoTestvane\PolojitelnoOtricatelnoChislo\bin\Debug\net8.0\PolojitelnoOtricatelnoChislo.runtimeconfig.json
+F:\Programming\AvtomatichnoTestvane\PolojitelnoOtricatelnoChislo\bin\Debug\net8.0\PolojitelnoOtricatelnoChislo.dll
+F:\Programming\AvtomatichnoTestvane\PolojitelnoOtricatelnoChislo\bin\Debug\net8.0\PolojitelnoOtricatelnoChislo.pdb
+F:\Programming\AvtomatichnoTestvane\PolojitelnoOtricatelnoChislo\obj\Debug\net8.0\PolojitelnoOtricatelnoChislo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\AvtomatichnoTestvane\PolojitelnoOtricatelnoChislo\obj\Debug\net8.0\PolojitelnoOtricatelnoChislo.AssemblyInfoInputs.cache
+F:\Programming\AvtomatichnoTestvane\PolojitelnoOtricatelnoChislo\obj\Debug\net8.0\PolojitelnoOtricatelnoChislo.AssemblyInfo.cs
+F:\Programming\AvtomatichnoTestvane\PolojitelnoOtricatelnoChislo\obj\Debug\net8.0\PolojitelnoOtricatelnoChislo.csproj.CoreCompileInputs.cache
+F:\Programming\AvtomatichnoTestvane\PolojitelnoOtricatelnoChislo\obj\Debug\net8.0\PolojitelnoOtricatelnoChislo.dll
+F:\Programming\AvtomatichnoTestvane\PolojitelnoOtricatelnoChislo\obj\Debug\net8.0\refint\PolojitelnoOtricatelnoChislo.dll
+F:\Programming\AvtomatichnoTestvane\PolojitelnoOtricatelnoChislo\obj\Debug\net8.0\PolojitelnoOtricatelnoChislo.pdb
+F:\Programming\AvtomatichnoTestvane\PolojitelnoOtricatelnoChislo\obj\Debug\net8.0\PolojitelnoOtricatelnoChislo.genruntimeconfig.cache
+F:\Programming\AvtomatichnoTestvane\PolojitelnoOtricatelnoChislo\obj\Debug\net8.0\ref\PolojitelnoOtricatelnoChislo.dll
